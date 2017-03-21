@@ -1,0 +1,12 @@
+{
+  "name": "redmine-api-node-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/suzuki-shunsuke/redmine-api-node-example",
+  "author": "Suzuki Shunsuke",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "request": "^2.81.0"
+  }
+}
